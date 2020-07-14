@@ -1,0 +1,133 @@
+#container {
+	width: 1024px;
+	margin: 0 auto;
+	background-color: #F7F4F2;
+	border: 3px solid white;
+}
+
+header {
+	text-align: center;
+	font-size: 48px;
+	font-family: Arial, sans-serif;
+	border-bottom: 1px solid #D1BEB0;
+	padding: 20px 0px 20px 0px;
+}
+
+nav {
+	text-align: center;
+	padding: 20px 0px 20px 0px;
+	border-bottom: 1px solid #D1BEB0;
+}
+
+nav a {
+	padding-right: 20px;
+	text-decoration: none;
+}
+
+figure a {
+	text-decoration: none;
+	padding-top: 30px;
+}
+
+footer {
+	text-align: center;
+	border-top: 1px solid #D1BEB0;
+}
+
+#prijava {
+	text-align: center;
+}
+
+section {
+	border: 1px solid white;
+	padding: 20px;
+}
+
+figure img {
+	width: 150px;
+}
+
+figure {
+	border: 1px solid #D1BEB0;
+	text-align: center;
+}
+
+figure p{
+	text-align: center;
+}
+
+figure figcaption {
+	text-align: center;
+}
+
+.slika {
+	display: inline-block;
+}
+
+.korisnici {
+	width: 90%;
+	max-height: 400px;
+	overflow: auto;
+	margin: 0 auto;
+}
+
+.valtab {
+	width: 90%;
+	overflow-x: auto;
+	margin: 0 auto;
+}
+
+html {
+	background-color: #D1BEB0;
+}
+
+td {
+	text-align:center;
+}
+
+hr {
+	border: 2px solid #D1BEB0;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+table, th, td{
+	border-color: #D1BEB0;
+	border-style: solid;
+}
+
+tr:hover {
+	background-color: #D1BEB0;
+}
+
+a{
+	color: darkblue;
+}
+
+a:hover {
+	color: blue;
+}
+
+#autor {
+	text-align:center;
+}
+
+h1 {
+	text-align: center;
+	color:darkblue;
+}
+
+h2 {
+	color:darkblue;
+}
+
+table {
+	border: 1px solid;
+}
+
+select {
+	width:165px;
+	height: 25px;
+}
